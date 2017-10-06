@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Publish Redis Channel Publish OK with one subscriber 1`] = `"OK"`;
