@@ -1,6 +1,6 @@
 {
   "name": "jest-pub-sub",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "Abhisek Pattnaik <abhisekp@lecturenotes.in> (https://about.me/abhisekp)",
   "license": "MIT",
