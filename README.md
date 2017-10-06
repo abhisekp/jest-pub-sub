@@ -1,5 +1,7 @@
 # jest-pub-sub
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/abhisekp/jest-pub-sub.svg)](https://greenkeeper.io/)
+
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 > Test Redis PubSub using Jest testing framework
